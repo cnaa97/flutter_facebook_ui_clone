@@ -1,0 +1,14 @@
+{
+  "dart.lineLength": 150,
+  "[dart]": {
+    "editor.rulers": [
+      150
+    ],
+  },
+  "dart.flutterRunAdditionalArgs": [
+    "--no-sound-null-safety"
+  ],
+  "dart.vmAdditionalArgs": [
+    "--no-sound-null-safety"
+  ]
+}
